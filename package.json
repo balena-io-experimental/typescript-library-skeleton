@@ -1,21 +1,23 @@
 {
-  "name": "balena-typescript-lib-skeleton",
+  "name": "typescript-library-skeleton",
+  "private": true,
   "version": "0.1.0",
-  "description": "This is a skeleton project for balena libraries.",
+  "description": "This is a skeleton project for TypeScript libraries.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/balena-io/balena-typescript-lib-skeleton.git"
+    "url": "git+https://github.com/balena-io-playground/typescript-library-skeleton.git"
   },
   "keywords": [
-    "balena",
-    "balena-typescript-lib-skeleton"
+    "typescript",
+    "library",
+    "skeleton"
   ],
   "author": "Thodoris Greasidis <thodoris@balena.io>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/balena-io/balena-typescript-lib-skeleton/issues"
+    "url": "https://github.com/balena-io-playground/typescript-library-skeleton/issues"
   },
-  "homepage": "https://github.com/balena-io/balena-typescript-lib-skeleton#readme"
+  "homepage": "https://github.com/balena-io-playground/typescript-library-skeleton#readme"
 }
